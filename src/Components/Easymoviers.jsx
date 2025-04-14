@@ -78,7 +78,7 @@ const Easymovieers = () => {
         <div className="contact-box bg-red rounded w-full sm:w-50 text-center md:text-left">
           <h3 className="text-xl text-red-600 font-semibold mb-2">Call Us Now</h3>
           <a href="tel:+911234567890" className="text-red-600 text-lg underline">
-            +91 12345 67890
+            +91 9994949949
           </a>
         </div>
 
